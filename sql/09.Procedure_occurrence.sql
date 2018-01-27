@@ -1,7 +1,7 @@
 /**************************************
  --encoding : UTF-8
- --Author: 이성원
- --Date: 2017.02.13
+ --Author: Yeesuk Kim
+ --Date: 2017.12.17
  
 @NHISDatabaseSchema : DB containing NHIS National Sample cohort DB
 @ResultDatabaseSchema : DB for NHIS-NSC in CDM format
